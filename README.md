@@ -18,17 +18,17 @@ Batch Normalisation - Normalises the output values thus reducing computation tim
 ## Installation
 
 ### Download the data and clone this repository
-•	Clone this repository to your computer.
-•	Get into the folder using cd Diabetic-Retinopathy-Detection-with-CNN.
-•	Download the data files from Kaggle into this directory.
+Clone this repository to your computer.
+Get into the folder using cd Diabetic-Retinopathy-Detection-with-CNN.
+Download the data files from Kaggle into this directory.
 ### Installing the requirements
-•	pip install requirements.txt
+pip install requirements.txt
 
 ## Usage
-•	Run each cell in the Model_script.ipynb file.
-•	Save your model in the sub folder of Deployed Model folder.
-•	Run the app.py file.
-•	Let the server load, open a web browser and type localhost:5000
+Run each cell in the Model_script.ipynb file.
+Save your model in the sub folder of Deployed Model folder.
+Run the app.py file.
+Let the server load, open a web browser and type localhost:5000
 #### You are ready to go
 
 ## Result
